@@ -19,6 +19,9 @@
     "react-dom": "18.2.0",
     "react-hot-toast": "^2.4.1",
     "react-icons": "^4.10.1",
-    "sanity": "^3.14.1"
+    "sanity": "^3.14.1",
+    "@stripe/stripe-js": "^1.54.1",
+    "canvas-confetti": "^1.6.0",
+    "stripe": "^12.13.0"
   }
 }

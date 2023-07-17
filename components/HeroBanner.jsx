@@ -12,7 +12,7 @@ const HeroBanner = ({ heroBanner }) => {
         <h1>{heroBanner.largeText1}</h1>
         <img src={urlFor(heroBanner.image)} alt="headphones" className="hero-banner-image" />
         <div>
-          <Link href="http://localhost:3000/product/the-best-gaming-headphone">
+          <Link href="https://ecommece-sanity-stripe.vercel.app/product/the-best-gaming-headphone">
             <button type="button">{heroBanner.buttonText}</button>
           </Link>
           <div className="desc">

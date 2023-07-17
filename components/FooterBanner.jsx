@@ -17,7 +17,7 @@ const FooterBanner = ({ footerBanner: { discount, largeText1, largeText2, saleTi
           <p>{smallText}</p>
           <h3>Summer Sale</h3>
           <p>Collection Of Best Aesthetic Headphones</p>
-          <Link href="http://localhost:3000/product/headphone">
+          <Link href="https://ecommece-sanity-stripe.vercel.app/product/headphone">
             <button type="button">{buttonText}</button>
           </Link>
         </div>
